@@ -5,3 +5,6 @@ __pycache__
 .idea
 pyvenv.cfg
 venv
+lesson_6.py
+test_regs.txt
+test.py
